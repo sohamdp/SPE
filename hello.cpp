@@ -2,5 +2,6 @@
 using namespace std;
 int main()
 {
-	cout<<"welcome to git";
+	string subject="SPE";
+	cout<<"welcome to<<subject;
 }
