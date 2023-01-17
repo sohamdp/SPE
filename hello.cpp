@@ -1,5 +1,5 @@
 #include<iostream>
-usinf namespace std;
+using namespace std;
 int main()
 {
 	cout<<"welcome to git";
